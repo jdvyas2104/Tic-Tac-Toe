@@ -12,16 +12,17 @@ Play again option: After a game ends, players have the option to play again with
 Installation
 Ensure you have Python installed on your system. You can download Python from here.
 Install the Pygame library by running pip install pygame in your terminal or command prompt.
+
 Usage
 Clone this repository to your local machine using git clone https://github.com/yourusername/tic-tac-toe.git.
 Navigate to the project directory using cd tic-tac-toe.
+
 Run the game by executing python tic_tac_toe.py in your terminal or command prompt.
+
 Follow the on-screen instructions to play the game.
+
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss your ideas.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 Special thanks to the Pygame development team for creating the Pygame library.
